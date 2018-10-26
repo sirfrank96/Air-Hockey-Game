@@ -1,10 +1,10 @@
-## Air Hockey Game  
+# Air Hockey Game  
 Two-Player console hockey game in C++. Runs in Windows Command Prompt.
 
-# Instructions  
+## Instructions  
 Download `airhockey.exe` and run.
 
-# Player Controls   
+## Player Controls   
 Player 1 controls: (bottom of screen)    
 `w`: up, `a`: left, `d`: right, `s`: down 
   
