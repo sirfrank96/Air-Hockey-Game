@@ -11,4 +11,4 @@ Player 1 controls: (bottom of screen)
 Player 2 controls: (top of screen)    
 `i`: up, `j`: left, `l`: right, `k`: down    
     
-``q`: quit
+`q`: quit
