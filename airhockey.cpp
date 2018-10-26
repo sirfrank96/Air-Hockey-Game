@@ -126,13 +126,13 @@ void setup(Puck* p, Player* p1, Player* p2) {
 
 
 void input(){
-/*	w   //p1 controls
+/*  w   //p1 controls
   a   d
-	s
+    s
 
-	i     //p2 controls
+    i     //p2 controls
   j   l
-	k      */
+    k      */
 
 	if(_kbhit()){
 		switch(_getch()){
